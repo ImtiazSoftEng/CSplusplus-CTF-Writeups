@@ -1,0 +1,24 @@
+ExifTool Version Number         : 12.76
+File Name                       : beach_sunset.jpg
+File Size                       : 2.4 MB
+File Type                       : JPEG
+MIME Type                       : image/jpeg
+Image Width                     : 4032
+Image Height                    : 3024
+Camera Model Name               : Pixel 7
+Lens Model                      : 6.81mm f/1.85
+Exposure Time                   : 1/120
+F Number                        : 1.9
+ISO                             : 55
+Date/Time Original              : 2026:03:14 18:42:07
+GPS Latitude                    : 36 deg 57' 42.12" N
+GPS Longitude                   : 122 deg 3' 0.84" W
+Orientation                     : Horizontal (normal)
+Software                        : HDR+ 1.0.540098913
+Artist                          : k. hare
+Copyright                       : (c) 2026 Yellow Dart
+User Comment                    : cspp{exif_says_too_much}
+Color Space                     : sRGB
+White Balance                   : Auto
+Flash                           : Off, Did not fire
+Megapixels                      : 12.2
